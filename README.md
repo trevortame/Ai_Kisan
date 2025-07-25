@@ -28,13 +28,15 @@ AI Kisan is a Flask-based machine learning API that helps farmers make informed 
 **Returns**: Suggested fertilizer 🧪
 
 ## 🛠️ Setup Instructions
-```bash
+
 pip install flask flask-cors joblib scikit-learn
 python app.py
+
 ## 💡 Future Scope
 Add soil testing dataset integration.
 
 Build a web dashboard or mobile app.
 
 Multilingual support for Indian farmers.
+
 
